@@ -16,8 +16,10 @@ public class FirstProgram {
   public static void main(String x[]){
 	  out.println("Change");
 	  out.println(MAX_VALUE);
+	  out.println("This is the test issue 3");
 	  out.println("This is the fix for issue1");
-	  out.println("This is the fix for test issue2");
+	  
+	  out.println("This is the fix for issue 2");
   }
 
 
