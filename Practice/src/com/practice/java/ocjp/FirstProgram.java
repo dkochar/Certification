@@ -18,6 +18,8 @@ public class FirstProgram {
 	  out.println(MAX_VALUE);
 	  out.println("This is the test issue 3");
 	  out.println("This is the fix for issue1");
+	  
+	  out.println("This is the fix for issue 2");
   }
 
 
