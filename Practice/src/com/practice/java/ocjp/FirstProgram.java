@@ -17,7 +17,7 @@ public class FirstProgram {
 	  out.println("Change");
 	  out.println(MAX_VALUE);
 	  out.println("This is FirstCommit 1");
-		
+	  out.println("This is FirstCommit 2");
   }
 
 
